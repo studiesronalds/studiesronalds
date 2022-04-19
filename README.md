@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning PyTorch Machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at [LinkedIn](https://www.linkedin.com/in/ronalds-sovas-9005b623/)
-
+<script src="/d3.js"></script>
+<script src="/techtree.js"></script>
 <!---
 studiesronalds/studiesronalds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
