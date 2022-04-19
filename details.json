@@ -1,0 +1,107 @@
+{
+    "name": "Development",
+    "text": "Self thought development at 2009 , first applications in PHP , BASIC and Visual Basic 6.0",
+    "finished" : true,
+    "children": [
+        {
+            "name": "CCD",
+            "text": "Charge-Coupled Device",
+            "children": [
+                {
+                    "name": "radio_telescope_tech_II",
+                    "text": "radio telescope tech II",
+                    "children": [
+                        {
+                            "name": "Very_Long_Baseline_Interferometry",
+                            "text": "improvements in the stability of radio telescope receivers permits telescopes from all over the world (and even in Earth orbit) to be combined. Data received at each antenna is paired with timing information, usually from a local atomic clock, and stored for later analysis. At that later time, the data is correlated with data from other antennas similarly recorded, to produce a single image. Using this method it is possible to synthesise an antenna that is effectively the size of the Earth.",
+                            "size": 3938,
+                            "children":[
+                                {
+                                    "name": "SETI_project",
+                                    "text": "blarg...",
+                                    "size": 94384
+                                },
+                                {
+                                    "name": "radar_composition_detection",
+                                    "text": "mmmmhmm.",
+                                    "size": 2313
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "optical_telescope_tech_II",
+                    "text": "like a chart but better",
+                    "children": [
+                        {
+                            "name": "BetweennessCentrality",
+                            "text": "middlness-ocity",
+                            "size": 3534
+                        },
+                        {
+                            "name": "LinkDistance",
+                            "text": "time since last played zelda",
+                            "size": 5731
+                        },
+                        {
+                            "name": "MaxFlowMinCut",
+                            "text": "you know exactly what this is.",
+                            "size": 7840
+                        },
+                        {
+                            "name": "ShortestPaths",
+                            "text": "its not a line if that is what you are thinking.",
+                            "size": 5914
+                        },
+                        {
+                            "name": "SpanningTree",
+                            "text": "a fallen tree which bridges a river or canyon.",
+                            "size": 3416
+                        }
+                    ]
+                },
+                {
+                    "name": "infrared_telescope_tech_II",
+                    "text": "making things peppier",
+                    "children": [
+                        {
+                            "name": "AspectRatioBanker",
+                            "text": "what we call the gnome who lives in the server room.",
+                            "size": 7074
+                        }
+                    ]
+                },
+                {
+                    "name": "aperture_synthesis",
+                    "text": "making things peppier",
+                    "children": [
+                        {
+                            "name": "AspectRatioBanker",
+                            "text": "what we call the gnome who lives in the server room.",
+                            "size": 7074
+                        }
+                    ]
+                },
+                {
+                    "name": "adaptive_optics",
+                    "text": "",
+                    "children": [
+                        {
+                            "name": "lucky_imaging",
+                            "text": "asdf",
+                            "size": 7074,
+                            "children": [
+                                {
+                                    "name": "advanced_MEMS_mirror_arrays",
+                                    "text": "micro-electrical-mechanical systems",
+                                    "size": 1234
+                                }    
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
